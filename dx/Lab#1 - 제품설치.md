@@ -51,7 +51,7 @@ ls installer.sh
 /data/dataiku/design/bin/dss start
 
 # linux 서버 실행 시 dataiku 가 함께 실행되도록 하기 위한 명령
-sudo -i "/data/dataiku/dataiku-dss-13.4.4/scripts/install/install-boot.sh" "/data/dataiku/design" dataiku
+sudo -i "/home/dataiku/dataiku-dss-13.4.4/scripts/install/install-boot.sh" "/data/dataiku/design" dataiku
 ```
 
 ## Design node 접속
